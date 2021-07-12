@@ -2,4 +2,4 @@
 
 ## I aim for normal todolist 
 
-maybe if I like Vue I will change the project stack to Vue instead of React
+Now I use Vite instance of Normal Vue because it easier to install plugin than normal vue
